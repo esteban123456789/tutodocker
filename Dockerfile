@@ -1,6 +1,5 @@
-
-ckerfile lolcat
-# for test running : docker run -i lolcat:dev  - < Dockerfile
+# Dockerfile lolcat
+# for test running : docker run -i esteban123456789/tutodocker  - < Dockerfile
 FROM ruby:2.1
 
 LABEL maintainer "<herve leclerc> herve.leclerc@alterway.fr"
